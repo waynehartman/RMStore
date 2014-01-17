@@ -144,6 +144,8 @@
 		A0AF3DA517A8095F00D2E836 /* RMPurchasesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RMPurchasesViewController.m; sourceTree = "<group>"; };
 		A0AF3DA617A8095F00D2E836 /* RMPurchasesViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RMPurchasesViewController.xib; sourceTree = "<group>"; };
 		A0AF3DAD17A8303800D2E836 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		B0C88B6B187BB2AE00037EB5 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		B0C88B6C187BB2AE00037EB5 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -430,6 +432,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				de,
 			);
 			mainGroup = A0AF3CFF17A802F300D2E836;
 			productRefGroup = A0AF3D0917A802F300D2E836 /* Products */;
@@ -545,6 +548,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A0AF3D2617A802F300D2E836 /* en */,
+				B0C88B6B187BB2AE00037EB5 /* de */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -553,6 +557,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A0AF3D7A17A8085900D2E836 /* en */,
+				B0C88B6C187BB2AE00037EB5 /* de */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
